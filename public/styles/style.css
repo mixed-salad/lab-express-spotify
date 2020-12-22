@@ -99,3 +99,20 @@ body {
     border-radius: 10px;
     text-decoration: none;
 }
+
+#tracks {
+    width: 100%;
+}
+
+.table-header {
+    background-color: rgb(31, 31, 31);
+    
+}
+
+.each-track {
+    background-color:rgb(172, 172, 172);
+}
+
+.audio-controls:focus {
+    border: none;
+}
